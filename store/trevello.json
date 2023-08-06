@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "img": "/assets/bg2.jpg",
+    "category": "kpk",
+    "title": "Trip to swat & kalam valley",
+    "price": "From PKR 20,000/people",
+    "serviceBtn": "View all service providers"
+  },
+  {
+    "id": "2",
+    "img": "/assets/bg1.jpg",
+    "category": "kpk",
+    "title": "Trip to swat & kalam valley",
+    "price": "From PKR 20,000/people",
+    "serviceBtn": "View all service providers"
+  },
+  {
+    "id": "3",
+    "img": "/assets/bg3.jpg",
+    "category": "kpk",
+    "title": "Trip to swat & kalam valley",
+    "price": "From PKR 20,000/people",
+    "serviceBtn": "View all service providers"
+  },
+  {
+    "id": "4",
+    "img": "/assets/bg1.jpg",
+    "category": "kpk",
+    "title": "Trip to swat & kalam valley",
+    "price": "From PKR 20,000",
+    "serviceBtn": "View all service providers"
+  },
+  {
+    "id": "5",
+    "img": "/assets/bg2.jpg",
+    "category": "kpk",
+    "title": "Trip to swat & kalam valley",
+    "price": "From PKR 20,000",
+    "serviceBtn": "View all service providers"
+  }
+]
